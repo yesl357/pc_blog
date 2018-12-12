@@ -1,6 +1,7 @@
-# vuejs-essential
 
-> A Vue.js project
+# mblog
+
+> A Vue.js project pc端的博客前端代码
 
 ## Build Setup
 
@@ -18,4 +19,6 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
++ 线上地址：http://pc.xiaoyeyedada.cn
+
+
